@@ -1,0 +1,12 @@
+{
+  "name": "haagos",
+  "owner": { "name": "Christoph Haag", "url": "https://github.com/haagOS" },
+  "metadata": { "description": "Skills by haagOS for planning and challenging work before it gets built." },
+  "plugins": [
+    {
+      "name": "haagos",
+      "source": "./",
+      "description": "Plan and challenge work before it gets built: haagos-plan and haagos-challenge."
+    }
+  ]
+}

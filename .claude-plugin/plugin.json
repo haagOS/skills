@@ -1,0 +1,8 @@
+{
+  "name": "haagos",
+  "version": "0.1.0",
+  "description": "Plan and challenge work before it gets built: haagos-plan and haagos-challenge.",
+  "author": { "name": "Christoph Haag", "url": "https://github.com/haagOS" },
+  "repository": "https://github.com/haagOS/skills",
+  "license": "MIT"
+}
