@@ -16,10 +16,6 @@ plan reaches you already attacked once. You can also run `haagos-challenge` on i
 or issue. Install both: `haagos-plan` still works without the challenger, but falls back to a
 generic blind review.
 
-`haagos-plan` will offer a mockup or prototype once decisions are settled and uses a `prototype`
-skill when one is installed — for example the one in
-[mattpocock/skills](https://github.com/mattpocock/skills).
-
 Issue trackers: GitHub (`gh`) and Azure DevOps (`az`) are detected from the git remote. Without a
 tracker, the input is a pasted sketch or a plan file.
 

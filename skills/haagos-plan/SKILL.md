@@ -179,8 +179,7 @@ harder to argue with than a plan that hasn't, and the standing habit is to appro
 decision made on the user's behalf must never be dressed as a finding: different heading, different
 ask, and the count in the header even when nothing on the list looks contentious.
 
-Mockups or prototypes (a `prototype` skill, if one is installed) only once questions are resolved and the user
-approves creating one.
+Mockups or prototypes only once questions are resolved and the user approves creating one.
 
 ## Stage 7 — Write it down
 
